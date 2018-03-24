@@ -28,9 +28,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://www.traversymedia.com)
+[Alok Sigh's Linkedin](http://www.https://www.linkedin.com/in/aloks2573/.com)
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+[Alok Singh's Github](http://github.com/aloks2573 "Github")
 
 <!-- UL -->
 * Item 1
@@ -73,8 +73,8 @@ ___
 <!-- Tables -->
 | Name     | Email          |
 | -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
+| Shantanu | shan@gmail.com |
+| Rohit    | rohit@gmail.com|
 
 <!-- Task List -->
 * [x] Task 1
